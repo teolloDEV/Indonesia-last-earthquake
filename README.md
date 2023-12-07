@@ -1,5 +1,5 @@
 # Indonesia Latest Earthquake Detection Application
-This package will get the latest earthquake data from [ BMKG ](https://bmkg.go.id) | | Badan Meteorologi, Klimatologi, dan Geofisika
+This package will get the latest earthquake data from [ BMKG ](https://bmkg.go.id) |  Badan Meteorologi, Klimatologi, dan Geofisika
 
 
 
