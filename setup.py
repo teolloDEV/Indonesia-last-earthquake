@@ -3,8 +3,8 @@ import pathlib
 import setuptools
 
 setuptools.setup(
-    name="deteksigempa",
-    version="0.1.0",
+    name="latestearthquake",
+    version="0.0.1",
     author="Nur Arif",
     author_email="nurarif0151@gmail.com",
     description="This package will get the latest earthquake from BMKG",
