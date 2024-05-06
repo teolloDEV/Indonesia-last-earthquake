@@ -5,7 +5,7 @@ import setuptools
 setuptools.setup(
     name="latestearthquake",
     version="0.0.1",
-    author="Nur Arif",
+        author="Nur Arif",
     author_email="nurarif0151@gmail.com",
     description="This package will get the latest earthquake from BMKG",
     long_description=pathlib.Path("README.md").read_text(),
